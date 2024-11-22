@@ -1,1 +1,1 @@
-# WeatherDetection
+This is a simple Weather Detection application built using Python. The application utilizes the Tkinter library for the graphical user interface, Geocoder for fetching the user's current location, and Pytz for timezone-based data. The application displays the weather information of the user's location, such as temperature, humidity, and conditions, in an intuitive and user-friendly interface.
